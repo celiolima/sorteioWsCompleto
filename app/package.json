@@ -1,0 +1,21 @@
+{
+  "name": "sorteio-websocket",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Celiolima",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-multiparty": "^2.2.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mysql2": "^3.4.4",
+    "uploadfs": "^1.22.1",
+    "ws": "^8.13.0"
+  }
+}
